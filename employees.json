@@ -1,0 +1,68 @@
+{
+  "employees": [
+    {
+      "id": 1,
+      "name": "Juan",
+      "lastName": "Pérez",
+      "identification": "1012345678",
+      "jobTitle": "Auxiliar Administrativo",
+      "baseSalary": 1750905,
+      "workedDays": 30,
+      "overtime": {
+        "dayHours": 4,
+        "nightHours": 2,
+        "holidayDayHours": 0,
+        "holidayNightHours": 0
+      },
+      "holidayDaysWorked": 1
+    },
+    {
+      "id": 2,
+      "name": "Andrés",
+      "lastName": "Martínez",
+      "identification": "1034567890",
+      "jobTitle": "Desarrollador Junior",
+      "baseSalary": 3550000,
+      "workedDays": 15,
+      "overtime": {
+        "dayHours": 5,
+        "nightHours": 3,
+        "holidayDayHours": 0,
+        "holidayNightHours": 2
+      },
+      "holidayDaysWorked": 1
+    },
+    {
+      "id": 3,
+      "name": "Carlos",
+      "lastName": "Gómez",
+      "identification": "1023456789",
+      "jobTitle": "Técnico de Soporte",
+      "baseSalary": 2400000,
+      "workedDays": 30,
+      "overtime": {
+        "dayHours": 3,
+        "nightHours": 4,
+        "holidayDayHours": 2,
+        "holidayNightHours": 1
+      },
+      "holidayDaysWorked": 2
+    },
+    {
+      "id": 4,
+      "name": "Luis",
+      "lastName": "Rodríguez",
+      "identification": "1045678901",
+      "jobTitle": "Analista de Sistemas",
+      "baseSalary": 4500000,
+      "workedDays": 15,
+      "overtime": {
+        "dayHours": 2,
+        "nightHours": 5,
+        "holidayDayHours": 3,
+        "holidayNightHours": 1
+      },
+      "holidayDaysWorked": 0
+    }
+  ]
+}
